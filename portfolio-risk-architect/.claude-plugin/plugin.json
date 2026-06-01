@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-risk-architect",
+  "description": "Institutional multi-asset portfolio risk diagnostic skill for concentration, overlap, correlation, stress testing, and allocation analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "chagkrit"
+  },
+  "repository": "https://github.com/chagkrit/Portfolio-Risk-Architecture",
+  "keywords": [
+    "portfolio",
+    "risk",
+    "asset-allocation",
+    "stress-testing",
+    "investing"
+  ]
+}

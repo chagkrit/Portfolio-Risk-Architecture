@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-risk-architecture",
+  "owner": {
+    "name": "chagkrit"
+  },
+  "plugins": [
+    {
+      "name": "portfolio-risk-architect",
+      "source": "./portfolio-risk-architect",
+      "description": "Institutional multi-asset portfolio risk diagnostic skill for concentration, overlap, correlation, stress testing, and allocation analysis"
+    }
+  ]
+}
